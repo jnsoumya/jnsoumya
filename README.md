@@ -3,13 +3,26 @@
 <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24">, I'm Soumya JN</h1>
 <br/>
 
-Here are some ideas to get you started:
+An aspiring data analyst with a passion for uncovering insights through data. I'm currently building my skills in Python, SQL, and data visualization, and exploring real-world datasets to solve interesting problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+📊 Current Focus
+	Data cleaning and wrangling,
+    Exploratory data analysis (EDA),
+    Building dashboards using tools like Tableau and Power BI
+
+🛠️ Tools & Skills
+   Languages: Python, MySQL, 
+   Libraries: Pandas, NumPy, 
+   Tools: Excel, Power BI, Tableau, Jupyter Notebooks, Git/GitHub
+
+Concepts: Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Regression, Classification
+
+📊 What I’m Working On
+   Building projects with open datasets (e.g. Kaggle, public APIs),
+   Enhancing my portfolio with Python and SQL projects,
+   Practicing data storytelling and dashboard design
+
+🌱 Currently Learning
+    PostgreSQL,
+    Matplotlib, Seaborn,
+    Time Series Analysis
